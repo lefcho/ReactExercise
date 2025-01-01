@@ -1,0 +1,7 @@
+1. Start a React application: 
+    cd <to current directory>
+    npm create vite@latest
+    <name your app>
+    cd <to you app>
+    npm install
+    npm run dev // if you want to restart your server run this command again 
