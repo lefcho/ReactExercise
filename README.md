@@ -1,2 +1,2 @@
 # ReactExercise
-A repo for learning Rract
+A repo for learning React
