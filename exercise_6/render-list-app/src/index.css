@@ -66,3 +66,27 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.list-category {
+  font-size: 2em;
+  font-weight: bold;
+  color: #213547;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: aqua;
+}
+
+.list-items {
+  font-size: 2em;
+  list-style: none;
+  color: #213547;
+  text-align: center;
+  margin: 0;
+}
+
+.list-items li:hover {
+  color: #395f80;
+  cursor: pointer;
+}
