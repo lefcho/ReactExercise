@@ -25,7 +25,7 @@ function List(props) {
 
 List.propTypes = {
     category: PropTypes.string,
-    items: PropTypes.arrayOf(PropTypes.shape({   // arrayOf ensures that the prop is an array, shape that is an object 
+    items: PropTypes.arrayOf(PropTypes.shape({   // arrayOf ensures that the prop is an array, shape that is an object
                                         id: PropTypes.number,
                                         name: PropTypes.string,
                                         calories: PropTypes.number,
