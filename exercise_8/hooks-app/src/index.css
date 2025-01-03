@@ -66,3 +66,27 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.counter-container {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.count-display {
+  font-size: 7em;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.counter-button {
+  padding: 20px;
+  font-weight: bold;
+  margin: 0 5px;
+  background-color: #5060df;
+  color: wheat;
+}
+
+.counter-button:hover {
+  background-color: #0307f3;
+}
